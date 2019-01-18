@@ -6,5 +6,7 @@ Code Explained a channel on youtube made a guide about where he explains everyth
 Everything used with code is based on his guide, so if you like it please check him out!
 
 Link to his channel: https://www.youtube.com/channel/UC8n8ftV94ZU_DJLOLtrpORA/videos
+
 Link to the video: https://www.youtube.com/watch?v=9TcU2C1AACw&list=WL&index=7&t=4s
+
 Link to the github-page with his code and files: https://github.com/CodeExplainedRepo/Snake-JavaScript
